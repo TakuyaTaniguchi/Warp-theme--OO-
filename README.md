@@ -9,6 +9,8 @@
 - Torao Mido ![#8f7576](https://placehold.co/15x15/8f7576/8f7576.png) `#8f7576`
 
 
+<img src=".github/zool.yaml.svg" width="200" />
+
 ### Installation
 
 ```
